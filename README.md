@@ -1,4 +1,4 @@
-```markdown
+
 # 🖥️ Digikala Laptop Scraper / استخراج لپ‌تاپ از دیجی‌کالا
 
 ![Application Preview](screenshot.png)
@@ -95,5 +95,3 @@ streamlit run project_1.py
 ├── 📂 webdrivers
 ├── 📷 screenshot.png
 └── 📜 README.md
-
-```
