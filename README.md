@@ -1,3 +1,4 @@
+```markdown
 # 🖥️ Digikala Laptop Scraper / استخراج لپ‌تاپ از دیجی‌کالا
 
 ![Application Preview](screenshot.png)
@@ -28,7 +29,9 @@
 ```bash
 pip install selenium streamlit openpyxl pandas psutil requests
 ```
-##Run application
+
+Run application
+
 ```bash
 streamlit run project_1.py
 ```
@@ -37,13 +40,9 @@ streamlit run project_1.py
 
 🧠 Core Components
 
-File	Purpose
-
-project_1.py	Main application logic
-selenium_setting.py	Browser automation setup
-kill_browser.py	Process & browser management
-
-
+· project_1.py - Main application logic
+· selenium_setting.py - Browser automation setup
+· kill_browser.py - Process & browser management
 
 ---
 
@@ -51,38 +50,28 @@ kill_browser.py	Process & browser management
 
 ✨ ویژگی‌ها
 
-مدیریت هوشمند مرورگر
-
-بروزرسانی خودکار Microsoft Edge
-
-نصب خودکار WebDriver
-
-
-سیستم ضد شناسایی
-
-پشتیبانی از حالت Headless
-
-شبیه‌سازی اثرانگشت تصادفی کاربر
-
-
-پردازش داده
-
-استخراج ۱ تا ۴۰ صفحه از نتایج
-
-خروجی اکسل با قابلیت دانلود مستقیم
-
-
-
+· مدیریت هوشمند مرورگر
+  · بروزرسانی خودکار Microsoft Edge
+  · نصب خودکار WebDriver
+· سیستم ضد شناسایی
+  · پشتیبانی از حالت Headless
+  · شبیه‌سازی اثرانگشت تصادفی کاربر
+· پردازش داده
+  · استخراج ۱ تا ۴۰ صفحه از نتایج
+  · خروجی اکسل با قابلیت دانلود مستقیم
 
 ---
 
 🚀 راه‌اندازی سریع
 
-###نصب پیش‌نیازها
+نصب پیش‌نیازها
+
 ```bash
 pip install selenium streamlit openpyxl pandas psutil requests
 ```
-##اجرای برنامه
+
+اجرای برنامه
+
 ```bash
 streamlit run project_1.py
 ```
@@ -91,13 +80,9 @@ streamlit run project_1.py
 
 🧠 اجزای اصلی
 
-فایل	توضیحات
-
-project_1.py	منطق اصلی برنامه
-selenium_setting.py	تنظیمات اتوماسیون مرورگر
-kill_browser.py	مدیریت پردازش‌ها و مرورگر
-
-
+· project_1.py - منطق اصلی برنامه
+· selenium_setting.py - تنظیمات اتوماسیون مرورگر
+· kill_browser.py - مدیریت پردازش‌ها و مرورگر
 
 ---
 
@@ -110,3 +95,5 @@ kill_browser.py	مدیریت پردازش‌ها و مرورگر
 ├── 📂 webdrivers
 ├── 📷 screenshot.png
 └── 📜 README.md
+
+```
